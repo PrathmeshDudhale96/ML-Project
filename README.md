@@ -1,4 +1,5 @@
-##📧 Email Spam Classifier
+## 📧 Email Spam Classifier
+
 🌟 Overview
 A Streamlit web application that classifies emails as Spam or Ham (not spam) using machine learning.
 
