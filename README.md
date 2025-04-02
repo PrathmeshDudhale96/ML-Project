@@ -6,9 +6,9 @@ A Streamlit web application that classifies emails as Spam or Ham (not spam) usi
 Click below to launch the app instantly:
 🔗 https://prathmeshdudhale.streamlit.app/
 
-📂 GitHub Repository
-View source code and contribute:
-GitHub
+## 🌐 GitHub Repository  
+Click below to access the source code:  
+📦 [https://github.com/PrathmeshDudhale96/ML-Project.git](https://github.com/PrathmeshDudhale96/ML-Project.git)  
 
 ## � How to Use the Application
 
