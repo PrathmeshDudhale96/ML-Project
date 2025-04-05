@@ -48,3 +48,7 @@ To run locally:
 For issues or questions:
 - Open an issue on the GitHub repository
 - Contact the developer at [prathmeshdudhale96@gmail.com]
+
+##sample output
+![image](https://github.com/user-attachments/assets/3fce055e-d213-46e2-a3d6-6bc0fce34174)
+
